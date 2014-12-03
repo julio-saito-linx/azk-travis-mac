@@ -15,11 +15,15 @@ install:
   - sudo touch /etc/resolver/azk.dev
   - echo "nameserver 192.168.50.4.53" | sudo tee -a /etc/resolver/azk.dev
 
-  # start agent
-  - azk agent start
-
 script:
-  - azk version
+  # setting default path as azk
+  - export PATH=`pwd`/bin:$PATH
+  - rm -Rf node_modules lib/azk lib/nvm lib/spec
+  - make
+  - azk nvm grunt vm-download
+  - azk agent start
+  - azk nvm grunt slow_test
+  - make package_mac
 
 matrix:
   fast_finish: true
