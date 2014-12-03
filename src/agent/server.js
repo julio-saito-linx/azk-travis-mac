@@ -5,6 +5,7 @@ import { Balancer } from 'azk/agent/balancer';
 import { net as net_utils } from 'azk/utils';
 import { AgentStartError } from 'azk/utils/errors';
 import { Api } from 'azk/agent/api';
+import { UI } from 'azk/cli/ui';
 
 var Server = {
   server: null,
@@ -92,7 +93,11 @@ var Server = {
         var address     = `tcp://${config("agent:vm:ip")}:22`;
         var try_connect = parseInt(config("agent:vm:try_connect"));
         var success = yield net_utils.waitService(address, try_connect, {
-          context: "vm"
+          context  : "vm",
+          retry_if : () => {
+            var cmd = "VBoxManage showvminfo azk-vm-azk.dev";
+            return UI.execSh(cmd).then(() => { return true });
+          }
         });
         if (!success) {
           throw new AgentStartError(t("errors.not_vm_start"));
