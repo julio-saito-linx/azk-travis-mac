@@ -40,7 +40,7 @@ var Server = {
       yield Api.stop();
       yield this.removeBalancer();
       if (config('agent:requires_vm')) {
-        yield this.stopVM();
+        //yield this.stopVM();
         yield this.removeShare();
       }
     });

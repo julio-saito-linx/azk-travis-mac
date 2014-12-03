@@ -7,6 +7,10 @@ install:
   - brew install brew-cask
   - brew cask install virtualbox
   - brew install unfs3
+  - brew install s3cmd
+
+  # s3cmd crentials
+  - echo "[default]\naccess_key = $AWS_ACCESS_KEY_ID\nsecret_key = $AWS_SECRET_KEY" | sudo tee -a $HOME/.s3cfg
 
   # do not install azk - brew install azukiapp/azk/azk
 
@@ -18,7 +22,7 @@ install:
 script:
   # setting default path as azk
   - export PATH=`pwd`/bin:$PATH
-  - export AZK_VM_TRY_CONNECT=40
+  - export AZK_VM_TRY_CONNECT=100
 
   # compile azk
   - make
@@ -31,6 +35,8 @@ script:
   - VBoxManage list hostonlyifs
   - VBoxManage list dhcpservers
   - VBoxManage showvminfo azk-vm-azk.dev
+  - VBoxManage controlvm azk-vm-azk.dev screenshotpng screen.png
+  - s3cmd put -P screen.png s3://$AWS_BUCKET/screen.png
 
   # run all slow tests
   - azk nvm grunt slow_test
