@@ -7,8 +7,7 @@ install:
   - brew install brew-cask
   - brew cask install virtualbox
 
-  # install azk
-  - brew install azukiapp/azk/azk
+  # do not install azk - brew install azukiapp/azk/azk
 
   # create dns resolver
   - sudo mkdir -p /etc/resolver
@@ -18,11 +17,20 @@ install:
 script:
   # setting default path as azk
   - export PATH=`pwd`/bin:$PATH
-  - rm -Rf node_modules lib/azk lib/nvm lib/spec
+
+  # compile azk
   - make
+
   - azk nvm grunt vm-download
+
   - azk agent start
+  # try again
+  - azk agent start
+
+  # run all slow tests
   - azk nvm grunt slow_test
+
+  # packaging for mac
   - make package_mac
 
 matrix:
