@@ -1,12 +1,19 @@
 language: objective-c
-before_install:
-  - brew update
+#before_install:
+# - brew update
 install:
-  - mkdir -p $(brew --repo)/Library/Taps
-  - ln -s $PWD $(brew --repo)/Library/Taps/azukiapp-azk
-  - brew tap --repair
+
+  # http://stackoverflow.com/questions/23796448/homebrew-error-occured-when-i-command-brew-cask-install-virtualbox-or-brew-ca
+  - brew uninstall brew-cask
+  - brew tap caskroom/cask
+  - brew install brew-cask
+
+  # - mkdir -p $(brew --repo)/Library/Taps
+  # - ln -s $PWD $(brew --repo)/Library/Taps/azukiapp-azk
+  # - brew tap --repair
 script:
-  - brew audit azk
-  - brew install -v azk
+  - brew cask install virtualbox
+  #- brew audit azk
+  #- brew install -v azk
 matrix:
   fast_finish: true
