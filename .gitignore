@@ -1,0 +1,8 @@
+.vimrc
+.azk
+/data
+/lib
+/package
+/node_modules
+/build
+npm-debug.log

@@ -1,0 +1,100 @@
+#!/bin/bash
+
+# Show and exit on errors
+set -e
+
+# Get azk root path
+abs_dir() {
+  cd "${1%/*}"; link=`readlink ${1##*/}`;
+  if [ -z "$link" ]; then pwd; else abs_dir $link; fi
+}
+
+export AZK_ROOT_PATH=`cd \`abs_dir ${BASH_SOURCE:-$0}\`/..; pwd`
+
+# Namespace and domain
+export AZK_NAMESPACE=${AZK_NAMESPACE:-azk.dev}
+export AZK_BALANCER_HOST=${AZK_BALANCER_HOST:-$AZK_NAMESPACE}
+
+# Default namespace use a data root path
+data_namespace="/ns/${AZK_NAMESPACE}";
+if [ "${AZK_NAMESPACE}" == "azk.dev" ]; then
+  data_namespace="";
+fi
+
+# Base folders
+export AZK_DATA_PATH=${AZK_DATA_PATH:-$HOME/.azk/data$data_namespace} # sockets, data disks and logs
+export AZK_LIB_PATH=${AZK_LIB_PATH:-$AZK_ROOT_PATH/lib};              # transpiled files from src and node runtime
+export AZK_NPM_PATH=${AZK_NPM_PATH:-$AZK_ROOT_PATH/node_modules};     # package dependencies
+
+# Nvm paths and configs
+node_version=`cat $AZK_ROOT_PATH/.nvmrc`
+export NVM_DIR=$AZK_LIB_PATH/nvm
+export AZK_NODE_PATH=${AZK_NODE_PATH:-$NVM_DIR/$node_version/bin}
+
+# Node load paths
+export NODE_PATH=$NVM_DIR/$node_version/node_modules
+export NODE_PATH=$AZK_ROOT_PATH:$NODE_PATH
+export NODE_PATH=$AZK_NPM_PATH:$NODE_PATH
+export NODE_PATH=$AZK_LIB_PATH:$NODE_PATH
+
+# Extra path
+export PATH=/usr/local/sbin:$PATH
+export PATH=$AZK_NODE_PATH:$PATH
+export PATH=$AZK_NPM_PATH/.bin:$PATH
+
+# No use DOCKER_HOST
+unset DOCKER_HOST
+
+make_data_folders() {
+  data_folders=(
+    "$AZK_DATA_PATH"
+    "$AZK_DATA_PATH/ns"
+    "$AZK_DATA_PATH/run"
+    "$AZK_DATA_PATH/vm"
+    "$AZK_DATA_PATH/nvm"
+    "$AZK_DATA_PATH/logs"
+    "$AZK_DATA_PATH/persistent_folders"
+  )
+
+  for dir in "${data_folders[@]}"; do
+    [ -d "$dir" ] || mkdir -p $dir
+  done
+
+  # Clean old install azk versions files (<0.6.0)
+  (
+    cd $AZK_DATA_PATH;
+    rm -Rf vm/*.tmp vm/*.iso vm/*.bz vm/*.sha
+  )
+}
+
+azk_load_nvm() {
+  if ! $AZK_NODE_PATH/node --version &>/dev/null ; then
+    echo "node not installed";
+    echo "run: make -e bootstrap";
+    exit 1;
+  fi
+}
+
+azk_node_run() {
+  exec $AZK_NODE_PATH/node --harmony $AZK_ROOT_PATH/bin/azk.js "${@}"
+}
+
+npm() {
+  exec $AZK_NODE_PATH/npm --cache=${AZK_DATA_PATH}/nvm/cache ${@}
+}
+
+azk_main() {
+  make_data_folders
+  case "$1" in
+    nvm)
+      shift; "${@}"
+      ;;
+    *)
+      azk_load_nvm
+      azk_node_run "${@}"
+  esac
+}
+
+# run main function
+azk_main "${@}"
+
