@@ -11,6 +11,7 @@ install:
   - brew install azukiapp/azk/azk
 
   # create dns resolver
+  - sudo mkdir -p /etc/resolver
   - sudo touch /etc/resolver/azk.dev
   - sudo echo "nameserver 192.168.50.4.53" > /etc/resolver/azk.dev
 
