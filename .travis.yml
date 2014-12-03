@@ -9,6 +9,8 @@ install:
   - brew install brew-cask
   - brew cask install virtualbox
 
+  - brew install azukiapp/azk/azk
+
   # - mkdir -p $(brew --repo)/Library/Taps
   # - ln -s $PWD $(brew --repo)/Library/Taps/azukiapp-azk
   # - brew tap --repair
