@@ -1,28 +1,12 @@
-language:
-  ruby
-
+language: objective-c
+before_install:
+  - brew update
 install:
-  - echo $USER
-  - sudo sh -c "wget -qO- https://get.docker.io/gpg | apt-key add -"
-  - sudo sh -c "echo deb http://get.docker.io/ubuntu docker main > /etc/apt/sources.list.d/docker.list"
-  - sudo apt-key adv --keyserver keys.gnupg.net --recv-keys 022856F6D78159DF43B487D5C82CF0628592D2C9
-  - echo "deb [arch=amd64] http://repo.azukiapp.com trusty main" | sudo tee /etc/apt/sources.list.d/azuki.list
-  - sudo apt-get update -y
-  - sudo mkdir -p /var/lib/docker
-  - echo exit 101 | sudo tee /usr/sbin/policy-rc.d
-  - sudo chmod +x /usr/sbin/policy-rc.d
-  - sudo apt-get install -y slirp lxc lxc-docker aufs-tools cgroup-lite
-  - curl -sLo linux https://github.com/jpetazzo/sekexe/raw/master/uml
-  - chmod +x linux
-  - sudo groupadd docker -f
-  - sudo gpasswd -a ${USER} docker
-  - sudo apt-get install libnss-resolver -y
-
+  - mkdir -p $(brew --repo)/Library/Taps
+  - ln -s $PWD $(brew --repo)/Library/Taps/azukiapp-azk
+  - brew tap --repair
 script:
-  - ./linux quiet mem=2G rootfstype=hostfs rw eth0=slirp,,/usr/bin/slirp-fullbolt init=$(pwd)/uml.sh WORKDIR=$(pwd) HOME=$HOME
-  - sudo docker ps
-  - make
-  - bin/azk version
-  - export AZK_DEBUG=debug
-  - bin/azk agent start
-  - bin/azk shell package -c 'bash ./package-creation/01-run-slow-tests.sh'
+  - brew audit azk
+  - brew install -v azk
+matrix:
+  fast_finish: true
