@@ -1,0 +1,1634 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sugestion",
+				"suggestion"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"sugg",
+				"suggestion"
+			],
+			[
+				"f",
+				"f	function() {...}"
+			],
+			[
+				"log",
+				"log	console.log(...);"
+			],
+			[
+				"sugge",
+				"suggestionName"
+			],
+			[
+				"suggestions",
+				"suggestionsChoosen"
+			],
+			[
+				"__e",
+				"__evidences_by_folder"
+			],
+			[
+				"folder",
+				"folderSuggestion"
+			],
+			[
+				"pro",
+				"provision"
+			],
+			[
+				"system",
+				"systems"
+			],
+			[
+				"rule",
+				"ruleNamesList"
+			],
+			[
+				"suggestion",
+				"suggestions"
+			],
+			[
+				"su",
+				"suggestion"
+			],
+			[
+				"_find",
+				"_.find	Iterates over elements of a collection, returning the first element that the callback returns truey for. "
+			],
+			[
+				"evi",
+				"evidencesByFolder"
+			],
+			[
+				"dir",
+				"dirItem"
+			],
+			[
+				"group",
+				"groupedByDir"
+			],
+			[
+				"_for",
+				"_.forEach	Iterates over elements of a collection, executing the callback for each element."
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"grou",
+				"groupedByDir"
+			],
+			[
+				"ev",
+				"evidence"
+			],
+			[
+				"evide",
+				"evidences"
+			],
+			[
+				"releva",
+				"relevantsFiles"
+			],
+			[
+				"rele",
+				"relevantFiles"
+			],
+			[
+				"relev",
+				"relevantsFiles"
+			],
+			[
+				"crea",
+				"createTestFolders"
+			],
+			[
+				"fu",
+				"fullpath"
+			],
+			[
+				"ruby",
+				"rubyVersion"
+			],
+			[
+				"node",
+				"nodeVersion"
+			],
+			[
+				"con",
+				"configureAccountsServices"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"find",
+				"findSystems"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"quan",
+				"quantidade_pessoas"
+			],
+			[
+				"nova",
+				"novaSituacao"
+			],
+			[
+				"festa",
+				"festaAtual"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"_last",
+				"_.last	Gets the last element or last n elements of an array."
+			],
+			[
+				"fes",
+				"festa"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"sta",
+				"startTracking"
+			],
+			[
+				"_is",
+				"_.isUndefined	Checks if value is undefined."
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"an",
+				"animarCampos"
+			],
+			[
+				"com",
+				"complete"
+			],
+			[
+				"obter",
+				"obterPrato"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"remo",
+				"removerPrato"
+			],
+			[
+				"da",
+				"dados_grafico"
+			],
+			[
+				"la",
+				"labels"
+			],
+			[
+				"dad",
+				"dados_grafico"
+			],
+			[
+				"Mogge",
+				"MoggerLogger"
+			],
+			[
+				"trace",
+				"traceAll"
+			],
+			[
+				"_index",
+				"_.indexOf	Gets the index at which the first occurrence of value is found."
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"servi",
+				"service_name"
+			],
+			[
+				"_isf",
+				"_.isFunction	Checks if value is a function."
+			],
+			[
+				"min",
+				"minDate"
+			],
+			[
+				"Sc",
+				"SimpleSchema"
+			],
+			[
+				"get",
+				"getService"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"to",
+				"todosFestas"
+			],
+			[
+				"ser",
+				"service_name"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"quanti",
+				"quantidade_pessoas"
+			],
+			[
+				"prato",
+				"prato_id"
+			],
+			[
+				"qua",
+				"quantidade_pessoas"
+			],
+			[
+				"peso",
+				"peso_total"
+			],
+			[
+				"_isn",
+				"_.isNaN	Checks if value is NaN."
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"pra",
+				"pratoSelecionado"
+			],
+			[
+				"_re",
+				"_.reject	Returns the elements of a collection that the callback does not return truey for."
+			],
+			[
+				"hi",
+				"highlightBlock"
+			],
+			[
+				"initi",
+				"initializeDOM"
+			],
+			[
+				"init",
+				"initializeEvents"
+			],
+			[
+				"beforeFon",
+				"beforeFontSize"
+			],
+			[
+				"cle",
+				"cleanAndShowLogs"
+			],
+			[
+				"befo",
+				"beforeColor"
+			],
+			[
+				"before",
+				"beforeSize"
+			],
+			[
+				"sty",
+				"styleGeneratorModel"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"op",
+				"openModal"
+			],
+			[
+				"defa",
+				"defaultConsole"
+			],
+			[
+				"global",
+				"globalConfig"
+			],
+			[
+				"me",
+				"merge"
+			],
+			[
+				"local",
+				"localConfig"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"fake",
+				"fakeConsole"
+			],
+			[
+				"pause",
+				"pauseCallBack"
+			],
+			[
+				"creat",
+				"createLogs"
+			],
+			[
+				"defaul",
+				"defaultConfig"
+			],
+			[
+				"GLOBA",
+				"globalInterceptors"
+			],
+			[
+				"loca",
+				"localInterceptors"
+			],
+			[
+				"__a",
+				"__a_METHOD_NAME"
+			],
+			[
+				"__",
+				"__a_METHOD_NAME"
+			],
+			[
+				"info",
+				"infoStub"
+			],
+			[
+				"tes",
+				"testSources"
+			],
+			[
+				"interceptors",
+				"interceptors_list"
+			],
+			[
+				"interceptor",
+				"interceptor_item_A"
+			],
+			[
+				"inter",
+				"intercptorsA"
+			],
+			[
+				"inf",
+				"infoStub"
+			],
+			[
+				"o",
+				"onCall"
+			],
+			[
+				"targ",
+				"targetConfig"
+			],
+			[
+				"traget",
+				"targetConfig"
+			],
+			[
+				"bef",
+				"before"
+			],
+			[
+				"show",
+				"showPause"
+			],
+			[
+				"Todo",
+				"TodoItem"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"_fin",
+				"_.findLast	Iterates over elements of a collection from right to left, returning the first element that the callback returns truey for."
+			],
+			[
+				"firs",
+				"firstFunction"
+			],
+			[
+				"au",
+				"authResult"
+			],
+			[
+				"api",
+				"apiKey"
+			],
+			[
+				"clien",
+				"client_id"
+			],
+			[
+				"j",
+				"jBtnLogin"
+			],
+			[
+				"Is",
+				"isConnected"
+			],
+			[
+				"Person",
+				"PersonView"
+			],
+			[
+				"boots",
+				"bootstrap-examples"
+			],
+			[
+				"collction",
+				"collection"
+			],
+			[
+				"g",
+				"givenName"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ima",
+				"image_reveal"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".travis.yml",
+			"settings":
+			{
+				"buffer_size": 388,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 475 files for \"enter vm ip\" (regex, case sensitive)\n\n0 matches across 0 files\n",
+			"settings":
+			{
+				"buffer_size": 88,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "Azkfile.js",
+			"settings":
+			{
+				"buffer_size": 3931,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".nvmrc",
+			"settings":
+			{
+				"buffer_size": 9,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Snippet: logs",
+				"Snippet: console.log stringify(...);"
+			],
+			[
+				"packa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Snippet: log",
+				"Snippet: console.log(...);"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"han",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"handl",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"josn",
+				"Set Syntax: JSON"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"renmae",
+				"File: Rename"
+			],
+			[
+				"git",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"sublimel",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 832.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/julio/_git/azk-travis-mac"
+	],
+	"file_history":
+	[
+		"/home/julio/_git/azk/spec/config_spec.js",
+		"/home/julio/_git/azkfile-init-examples/Azkfile.js",
+		"/home/julio/_git/azkfile-init-examples/README.md",
+		"/home/julio/.azk/data/logs/azk.log",
+		"/home/julio/_git/azkfile-init-examples/.azk/Azkfile.js/72b697160b8c47c6f60ca04b3ae5247a",
+		"/home/julio/_git/azkfile-init-examples/.azk/Azkfile.js/7cee18bb304b74245f5ff7345816f412",
+		"/home/julio/_git/azkfile-init-examples/ruby21/config.ru",
+		"/home/julio/_git/azkfile-init-examples/ruby21/h.html",
+		"/home/julio/_git/azkfile-init-examples/ruby21/Gemfile",
+		"/home/julio/_git/azkfile-init-examples/ruby21/Gemfile.lock",
+		"/home/julio/_git/variosExamples-azk/flask-minitwit/runtime.txt",
+		"/home/julio/_git/variosExamples-azk/flask/runtime.txt",
+		"/home/julio/_git/variosExamples-azk/flask/server.py",
+		"/home/julio/_git/variosExamples-azk/flask-minitwit/server.py",
+		"/home/julio/_git/variosExamples-azk/flask-minitwit/requirements.txt",
+		"/home/julio/_git/variosExamples-azk/flask/requirements.txt",
+		"/home/julio/_git/variosExamples-azk/Azkfile.js",
+		"/home/julio/_git/variosExamples-azk/ruby19/Gemfile",
+		"/home/julio/_git/variosExamples-azk/node010/index.js",
+		"/home/julio/_git/variosExamples-azk/ruby19/config.ru",
+		"/home/julio/_git/variosExamples-azk/python34/requirements.txt",
+		"/home/julio/_git/variosExamples-azk/python34/server.py",
+		"/home/julio/_git/variosExamples-azk/python34/index.html",
+		"/home/julio/_git/variosExamples-azk/python27/server.py",
+		"/home/julio/_git/variosExamples-azk/python27/runtime.txt",
+		"/home/julio/_git/variosExamples-azk/python27/requirements.txt",
+		"/home/julio/_git/variosExamples-azk/python27/index.html",
+		"/home/julio/_git/variosExamples-azk/python34/runtime.txt",
+		"/home/julio/_git/variosExamples-azk/django15/runtime.txt",
+		"/home/julio/_git/variosExamples-azk/django15/.gitignore",
+		"/home/julio/_git/variosExamples-azk/django17/.gitignore",
+		"/home/julio/_git/variosExamples-azk/django15/requirements.txt",
+		"/home/julio/_git/variosExamples-azk/django17/djangoExample/wsgi.py",
+		"/home/julio/_git/variosExamples-azk/django17/djangoExample/urls.py",
+		"/home/julio/_git/variosExamples-azk/django17/djangoExample/settings.py",
+		"/home/julio/_git/variosExamples-azk/django17/requirements.txt",
+		"/home/julio/_git/variosExamples-azk/django17/manage.py",
+		"/home/julio/_git/azukiapp.github.io/src/_includes/header.html",
+		"/home/julio/_git/azukiapp.github.io/src/_layouts/default.html",
+		"/home/julio/_git/azukiapp.github.io/src/_assets/js/custom.js",
+		"/home/julio/_git/azukiapp.github.io/Gruntfile.js",
+		"/home/julio/_git/azukiapp.github.io/README.md",
+		"/home/julio/_git/azukiapp.github.io/.env",
+		"/home/julio/_git/azukiapp.github.io/.gitignore",
+		"/home/julio/_git/azukiapp.github.io/src/_assets/css/style.css",
+		"/home/julio/_git/azukiapp.github.io/src/_assets/css/colors.css",
+		"/home/julio/_git/azk/src/generator/rules.js",
+		"/home/julio/_git/azk/spec/generator/court_spec.js",
+		"/home/julio/_git/azk/spec/generator/rules/generation/mysql_gen_spec.js",
+		"/home/julio/_git/azk/src/generator/court.js",
+		"/home/julio/_git/azk/spec/generator/rules/generation/node_gen_spec.js",
+		"/home/julio/_git/azk/spec/cmds/init_spec.js",
+		"/home/julio/_git/azk/src/generator/suggestions/mysql56.js",
+		"/home/julio/_git/azk/src/generator/rules/mysql.js",
+		"/home/julio/_git/azk/src/generator/suggestions/ruby19.js",
+		"/home/julio/_git/azk/src/generator/suggestions/rails41.js",
+		"/home/julio/_git/azk/spec/generator/rules/rails41_spec.js",
+		"/home/julio/_git/azk/src/manifest/index.js",
+		"/home/julio/.config/sublime-text-3/Packages/User/console_log_stringify.sublime-snippet",
+		"/home/julio/_git/azk/src/generator/sugestion_chooser.js",
+		"/home/julio/_git/dotfiles/sublime3/User/console_log_stringify.sublime-snippet",
+		"/home/julio/_git/azk/lib/azk/generator/court.js.map",
+		"/home/julio/_git/azk/lib/azk/generator/court.js",
+		"/home/julio/_git/azk/lib/nvm/v0.10.31/lib/node_modules/npm/scripts/clean-old.sh",
+		"/home/julio/_git/azk/CHANGELOG.md",
+		"/home/julio/_git/azk/spec/generator/rules/ruby_spec.js",
+		"/home/julio/_git/azk/spec/generator/rules/python_spec.js",
+		"/home/julio/_git/azk/spec/generator/rules/postgres_spec.js",
+		"/home/julio/_git/azk/spec/generator/rules/node_spec.js",
+		"/home/julio/_git/azk/spec/generator/rules/mysql_spec.js",
+		"/home/julio/_git/azk/src/cmds/init.js",
+		"/home/julio/_git/azk/src/generator/index.js",
+		"/home/julio/.config/sublime-text-3/Packages/Better JavaScript/console_log_stringify.sublime-snippet",
+		"/home/julio/_git/generators-azk/ruby20/config.ru",
+		"/home/julio/_git/generators-azk/rails41/Gemfile",
+		"/home/julio/_git/generators-azk/ruby21/Gemfile",
+		"/home/julio/_git/generators-azk/ruby19/Gemfile",
+		"/home/julio/_git/generators-azk/ruby20/Gemfile",
+		"/home/julio/_git/generators-azk/python34/runtime.txt",
+		"/home/julio/_git/generators-azk/Azkfile.js",
+		"/home/julio/_git/azk/spec/generator/rules/node_gen_spec.js",
+		"/home/julio/_git/azk/shared/locales/en-US.js",
+		"/home/julio/_git/azk/spec/manifest/index_spec.js",
+		"/home/julio/_git/azk/src/generator/suggestions/jruby17.js",
+		"/home/julio/_git/azk/src/generator/suggestions/node010.js",
+		"/home/julio/_git/azk/src/generator/suggestions/postgres93.js",
+		"/home/julio/_git/azk/src/generator/suggestions/ruby20.js",
+		"/home/julio/_git/azk/src/generator/suggestions/ruby21.js",
+		"/home/julio/_git/latifesta/client/modules/festas/views/2-pratosLista/item/pratoDisponivel.html",
+		"/home/julio/_git/latifesta/collections/usuarios/server/methods/usuarios.js",
+		"/home/julio/_git/latifesta/public/imagens/produtos/baba_50x50.jpg",
+		"/home/julio/_git/latifesta/public/imagens/produtos/baba_500x500.jpg",
+		"/home/julio/_git/latifesta/public/imagens/produtos/baba_180x230.jpg",
+		"/home/julio/_git/latifesta/client/modules/produtos/views/produtosLista/item/item.less",
+		"/home/julio/_git/latifesta/collections/1-produtos/server/methods/produtos.js",
+		"/home/julio/_git/latifesta/client/modules/produtos/views/produtosEditar/produtosEditar.html",
+		"/home/julio/_git/latifesta/client/modules/produtos/views/produtosLista/item/item.html",
+		"/home/julio/_git/azk/src/generator/rules/node.js",
+		"/home/julio/_git/azk/spec/generator/index_spec.js",
+		"/home/julio/_git/azk/src/generator/rules/ruby.js",
+		"/home/julio/.config/sublime-text-3/Packages/Better JavaScript/console_log.sublime-snippet",
+		"/home/julio/_git/azk/package.json",
+		"/home/julio/_git/azk/src/generator/rules/rails41.js",
+		"/home/julio/_git/azk/spec/generator/court_veredict_spec.js",
+		"/home/julio/_git/azk/src/cmds/version.js",
+		"/home/julio/_git/azk/node_modules/inquirer/node_modules/cli-color/node_modules/es5-ext/error/valid-error.js",
+		"/home/julio/_git/azk/node_modules/memcachedjs/Vagrantfile",
+		"/home/julio/_git/azukiapp.github.io/src/_includes/head.html",
+		"/home/julio/_git/azukiapp.github.io/src/_plugins/ext.rb",
+		"/home/julio/_git/azukiapp.github.io/src/_plugins/asset_bundler/asset_bundler.rb",
+		"/home/julio/_git/azukiapp.github.io/src/index.html",
+		"/home/julio/_git/azukiapp.github.io/src/_config.yml",
+		"/home/julio/_git/azukiapp.github.io/_site/assets/css/colors-fad60b210f72171385170d848cf71b60.css",
+		"/home/julio/_git/latifesta/client/lib/helpers.js",
+		"/home/julio/_git/latifesta/client/modules/festas/views/2-pratosLista/item/pratoSelecionado.js",
+		"/home/julio/_git/latifesta/client/views/header.js",
+		"/home/julio/_git/latifesta/client/views/header.less",
+		"/home/julio/_git/latifesta/client/views/home/home.html",
+		"/home/julio/_git/latifesta/client/views/home/home.js",
+		"/home/julio/_git/latifesta/client/views/header.html",
+		"/home/julio/_git/latifesta/server/accountConfig/accountConfig.js",
+		"/home/julio/_git/latifesta/server/kadira.js",
+		"/home/julio/_git/latifesta/server/accounts.js",
+		"/home/julio/_git/latifesta/.meteor/local/build/programs/server/packages/iron_router.js",
+		"/home/julio/_git/latifesta/client/routes/routes.js",
+		"/home/julio/_git/latifesta/README.md",
+		"/home/julio/_git/todos/client/stylesheets/globals/notification.import.less",
+		"/home/julio/_git/todos/client/stylesheets/globals/base.import.less"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"-node_modules/,-bower_components/,-.sass-cache/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*,-coverage/,-build/,-.meteor/local,-mogger-lib/,-azk/data/,-azk/lib/,-elastic-database/data/",
+			"-node_modules/,-bower_components/,-.sass-cache/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*,-coverage/,-build/,-.meteor/local,-mogger-lib/,-azk/data/,-azk/lib/",
+			"-node_modules/,-bower_components/,-.sass-cache/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*,-coverage/,-build/,-.meteor/local,-mogger-lib/,-azk/data/,-azk/lib/]",
+			"-node_modules/,-bower_components/,-.sass-cache/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*,-coverage/,-build/,-.meteor/local,-mogger-lib/,-data/",
+			"-node_modules/,-bower_components/,-.sass-cache/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*,-coverage/,-build/,-.meteor/local,-mogger-lib/",
+			"/home/julio/_git/latifesta/modules/usuarios",
+			"-node_modules/,-bower_components/,-.sass-cache/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*,-coverage/,-build/,-.meteor/local,-mogger-lib/",
+			"-node_modules/,-bower_components/,-.sass-cache/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*,-coverage/,-build/,-.meteor/local",
+			"",
+			"-node_modules/,-bower_components/,-.sass-cache/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*,-coverage/,-build/,-.meteor/local",
+			"/home/julio/_git/latifesta/public/imagens/logo_latife_only.png",
+			"-node_modules/,-bower_components/,-.sass-cache/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*,-coverage/,-build/,-.meteor/local",
+			"/home/julio/_git/latifesta/modules/usuarios/client",
+			"/home/julio/_git/latifesta/modules/usuarios",
+			"-node_modules/,-bower_components/,-.sass-cache/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*,-coverage/,-build/,-.meteor/local",
+			"/home/julio/_git/latifesta/modules/festas/client/views/pratosLista",
+			"/home/julio/_git/latifesta/modules/pratos/client",
+			"-node_modules/,-bower_components/,-.sass-cache/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*,-coverage/,-build/,-.meteor/local",
+			"/home/julio/_git/latifesta/modules/festas/client/views/festaCriar",
+			"/home/julio/_git/latifesta/modules/festas/client",
+			"/home/julio/_git/latifesta/modules/festa",
+			"",
+			"-node_modules/,-bower_components/,-.sass-cache/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*,-coverage/,-build/,-.meteor/local",
+			"",
+			"-node_modules/,-bower_components/,-.sass-cache/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*,-coverage/,-build/,-.meteor/local",
+			"-node_modules/,-bower_components/,-.sass-cache/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*,-coverage/,-build/",
+			"-node_modules/,-bower_components/,-.sass-cache/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*,-coverage/",
+			"-node_modules/,-bower_components/,-.sass-cache/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*",
+			"-node_modules/,-bower_components/,-.sass-cache/,-.tmp/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/,-bundle*",
+			"-node_modules/,-bower_components/,-.sass-cache/,-.tmp/,-dist/,-_site/,-templates.js,-sublime3/User,-httpdocs/",
+			"-node_modules/,-bower_components/,-.sass-cache/,-.tmp/,-dist/,-_site/,-templates.js,-sublime3/User",
+			"-node_modules/,-bower_components/,-.sass-cache/,-.tmp/,-dist/,-_site/,-templates.js,",
+			"-node_modules/,-bower_components/,-.sass-cache/,-.tmp/,-dist/,-_site/,-/client/templates.js,",
+			"-node_modules/,-bower_components/,-.sass-cache/,-.tmp/,-dist/,-_site/,",
+			"-node_modules/,-bower_components/,-.sass-cache/,-.tmp/,-dist/",
+			"-node_modules/,-bower_components/,-.sass-cache/,-.tmp/,-.dist/",
+			"-node_modules/,-bower_components/,-.sass-cache/,-.dist/",
+			"-node_modules/,-bower_components/,-.*,-.dist/",
+			"-node_modules/,-bower_components/,-.*,.-dist/",
+			"-node_modules/,-bower_components/,-.*/.-dist/",
+			"-node_modules/,-bower_components/,-.*/",
+			"-node_modules/",
+			"-node_modules/,-bower_components/",
+			"-node_modules/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"enter vm ip",
+			"transports",
+			"HTTP_PORT",
+			"path\\(\".\"\\)",
+			"path(\".\")",
+			"/azk/#{manifest.dir}",
+			"pythonuserbase",
+			"PYTHONUSERBASE",
+			"3.4",
+			"Simple Http Server",
+			"title",
+			"python",
+			"profile",
+			"card",
+			"  // if (document.location.hash !== '') {\n  //   $('li.active').removeClass('active');\n  //   var selectedAnchor = $('a[href=' + document.location.hash + ']:eq(0)');\n  //   selectedAnchor.parent().addClass('active');\n  // }\n",
+			"navbar-collapse",
+			"scroll",
+			"œ",
+			"position: relative;",
+			"navbar-collapse",
+			"scroll",
+			"affix",
+			"testim",
+			"blockquote",
+			"root_path",
+			"root_basename",
+			"workdir",
+			"name",
+			"project",
+			"-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.",
+			"suggestion0",
+			"// ",
+			"mysqlSystem",
+			"databasesSuggestions",
+			"databases",
+			"systemRuntimeFrameWork",
+			"depends",
+			"folderSuggestion",
+			"suggestion",
+			"folderSuggestion.fullpath",
+			"folderSuggestion.path",
+			"_folderBasename",
+			"basename",
+			"path.dirname",
+			"=",
+			"ruleType",
+			"this.__evidences_by_folder",
+			"evidence_suggestion",
+			"__folders_suggestions",
+			"[length]",
+			"      ",
+			"scrubbed",
+			"target",
+			"/********",
+			"** DEBUG",
+			"folderSuggestion.suggestionsChoosen",
+			"target",
+			"                                                    ",
+			"                                                   ",
+			"                                                  ",
+			"                                                 ",
+			"                                                ",
+			"                                               ",
+			"                                              ",
+			"                                             ",
+			"                                            ",
+			"                                           ",
+			"                                          ",
+			"                                         ",
+			"                                        ",
+			"                                       ",
+			"                                      ",
+			"                                     ",
+			"                                    ",
+			"                                   ",
+			"                                  ",
+			"                                 ",
+			"                                ",
+			"                               ",
+			"                              ",
+			"                             ",
+			"debugSource",
+			"folderSuggestion",
+			"systems[folderNameEvidenceName]",
+			"findSystems",
+			"_replacesEvidences",
+			"[0]",
+			"<----------",
+			"$HTTP",
+			"_",
+			"replace",
+			"system_name_invalid",
+			"is not valid",
+			"'",
+			"name",
+			"suggestionChoosen",
+			"suggestion",
+			"ruleName",
+			"acc",
+			"suggest",
+			"_getSystemNameByFolder",
+			"<img",
+			"pequena",
+			"url_foto_pequena",
+			"pequena",
+			"url_foto_grande",
+			"180.jpg",
+			"\"",
+			"51805230",
+			"HASH",
+			"codigoSecreto",
+			"foto-item",
+			"url_foto_grande",
+			"'nome':'",
+			"'nome'",
+			"'nome'\\:",
+			"nome\\:",
+			"nome:",
+			"queijo",
+			"7DBmhs2R7Fs4eLmQm",
+			"relevantsFiles",
+			"relevantsFiles\\b",
+			"relevantsFiles",
+			"relevantProjectFiles",
+			"searchFile",
+			"getFileContent",
+			"veredict",
+			"replacesEvidences"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"__folder_evidences_suggestion",
+			"suggestionsChoosen",
+			"_relevantsFiles",
+			"_relevantsFiles\\b",
+			"dir, _evidences",
+			"http://repo.azukiapp.com",
+			"livereload: true",
+			"livereload: false",
+			"mp3server.azk.dev",
+			"socketserver.azk.dev",
+			"result.version",
+			"festaHelper.gravarSituacao",
+			"data_modificacao",
+			"finalizacao",
+			"festa_calculada",
+			"produtosDetalhe",
+			"produtosEditar",
+			"produtosApagar",
+			"produtosVisualizar",
+			"festas",
+			"festasPratos",
+			"festasVisualizar",
+			"festasCriar",
+			"festasEditar",
+			"festasApagar",
+			"festa_pratos_quantidades",
+			"pratoResumoPratosItem",
+			"Meta.calcularMeta(",
+			"nomeServico",
+			"verificar_usuario_manual_email_verificado",
+			"typeof Schemas !== 'undefined' ? Schemas : {}",
+			"Schemas.Pratos",
+			"Schemas.Festas",
+			"Schemas.Produtos",
+			"Schemas.Produto",
+			"UsuariosHelper.obterServices",
+			"produtos-todos",
+			"Usuario",
+			"usuario",
+			"Session.get(\"festaId_atual\")",
+			"produtoId_atual",
+			"festaId_atual",
+			"Prato",
+			"prato",
+			"criar",
+			"Criar",
+			"festa",
+			"Festa",
+			"festa",
+			"Festa",
+			"festa",
+			"beforeCss",
+			"hook:",
+			"data-hook=",
+			"_addBefore",
+			"mogger",
+			"defaultConsole",
+			"ignoreRegexPattern",
+			"			stdout: fakeConsole,",
+			"new Mogger",
+			"Mogger.createTracer",
+			"    ",
+			"require('./base-page')",
+			"BasePage",
+			"forms/person-form",
+			"    ",
+			"",
+			"function (",
+			"users_list",
+			"PersonDetailPage",
+			"compare-photos-section"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/home/julio/_git/azk-travis-mac"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".travis.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 88,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Azkfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": ".nvmrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 142.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"cour",
+				"spec/generator/court_spec.js"
+			],
+			[
+				"vere",
+				"spec/generator/court_veredict_spec.js"
+			],
+			[
+				"home",
+				"client/views/home/home.html"
+			],
+			[
+				"",
+				"client/views/home/home.html"
+			],
+			[
+				"head",
+				"client/views/header.html"
+			],
+			[
+				"route",
+				"client/routes/routes.js"
+			],
+			[
+				"signinaccountentryremore",
+				"client/views/sigin-account-entry-remove/signinAccountEntryRemore.js"
+			],
+			[
+				"usuario",
+				"collections/usuarios/lib/usuarios.js"
+			],
+			[
+				"festas",
+				"modules/festas/client/views/0-festas/festas.html"
+			],
+			[
+				"help",
+				"modules/festas/client/lib/helpers.js"
+			],
+			[
+				"helper",
+				"modules/festas/client/lib/helpers.js"
+			],
+			[
+				"situacao",
+				"collections/festas/lib/festas-situacao-maker.js"
+			],
+			[
+				"helpe",
+				"modules/festas/client/lib/helpers.js"
+			],
+			[
+				"festa",
+				"collections/festas/lib/festas.js"
+			],
+			[
+				"email",
+				"client/views/layoutEmail.html"
+			],
+			[
+				"routes",
+				"client/routes/routes.js"
+			],
+			[
+				"produ",
+				"modules/produtos/client/views/produtosLista/produtosLista.js"
+			],
+			[
+				"hel",
+				"client/lib/helpers.js"
+			],
+			[
+				"meta",
+				"modules/festas/client/views/comum/meta/meta.html"
+			],
+			[
+				"contato",
+				"client/views/contato/contato.js"
+			],
+			[
+				"produlis",
+				"modules/produtos/client/views/produtosLista/produtosLista.js"
+			],
+			[
+				"rou",
+				"client/routes/routes.js"
+			],
+			[
+				"cont",
+				"server/email/contato.js"
+			],
+			[
+				"he",
+				"client/lib/helpers.js"
+			],
+			[
+				"selecion",
+				"modules/festas/client/views/2-pratosLista/item/pratoSelecionado.html"
+			],
+			[
+				"fl",
+				"modules/festas/client/views/comum/festa-layout.html"
+			],
+			[
+				"header",
+				"client/views/header.html"
+			],
+			[
+				"festssedi",
+				"modules/festas/client/views/festasEditar/festaEditar.js"
+			],
+			[
+				"editar",
+				"modules/festas/client/views/festaEditar/festaEditar.js"
+			],
+			[
+				"r",
+				"README.md"
+			],
+			[
+				"pratoresumo",
+				"modules/festas/client/views/pratosResumo/pratosResumo.js"
+			],
+			[
+				"helpers",
+				"modules/_main/client/lib/helpers.js"
+			],
+			[
+				"pratosr",
+				"modules/festas/client/views/pratosResumo/pratosResumo.html"
+			],
+			[
+				"prator",
+				"modules/festas/client/views/pratosResumo/item/pratos/pratoResumoPratosItem.html"
+			],
+			[
+				"festa.js",
+				"collections/festas/lib/festas.js"
+			],
+			[
+				"configuracoes.ht",
+				"modules/configuracoes/client/views/configuracoes/configuracoes.html"
+			],
+			[
+				"todo",
+				"TODO.md"
+			],
+			[
+				"lista",
+				"modules/produtos/client/views/produtosLista/produtosLista.js"
+			],
+			[
+				"enab",
+				"modules/_main/client/mogger-start/enable-mogger.js"
+			],
+			[
+				"qua",
+				"modules/festas/client/views/pratosQuantidade/item/pratoQuantidadeItem.js"
+			],
+			[
+				"enable",
+				"modules/_main/client/mogger-start/enable-mogger.js"
+			],
+			[
+				"acco",
+				"modules/_main/client/accounts/accounts.js"
+			],
+			[
+				"acc",
+				"modules/_main/server/accounts.js"
+			],
+			[
+				"401",
+				"modules/_main/client/views/statusCodes/401.html"
+			],
+			[
+				"dash",
+				"modules/_main/client/views/dashboard/dashboard.html"
+			],
+			[
+				"prato",
+				"modules/festas/client/views/pratosQuantidade/pratosQuantidade.html"
+			],
+			[
+				"qpq",
+				"modules/festas/client/views/pratosQuantidade/pratosQuantidade.js"
+			],
+			[
+				"pratoq",
+				"modules/festas/client/views/pratosQuantidade/item/pratoQuantidadeItem.js"
+			],
+			[
+				"pratoquantidade",
+				"modules/festas/client/views/pratosQuantidade/item/pratoQuantidadeItem.js"
+			],
+			[
+				"item",
+				"modules/usuarios/client/views/usuariosLista/item/item.html"
+			],
+			[
+				"ena",
+				"modules/_main/client/mogger-start/enable-mogger.js"
+			],
+			[
+				"tradu",
+				"modules/_main/client/traducaoMensagensValidacao.js"
+			],
+			[
+				"veri",
+				"modules/usuarios/client/views/verificarAcesso/verificarAcesso.html"
+			],
+			[
+				"pack",
+				".meteor/packages"
+			],
+			[
+				"screen",
+				"src/javascript/templates/screenshots.hbs"
+			],
+			[
+				"main-vi",
+				"src/javascript/views/main-view.js"
+			],
+			[
+				"01",
+				"app/components/tutorial/01.js"
+			],
+			[
+				"body",
+				"templates/body.jade"
+			],
+			[
+				"routs",
+				"client/router.js"
+			],
+			[
+				"router",
+				"client/router.js"
+			],
+			[
+				"face",
+				"client/models/facebook-user-model.js"
+			],
+			[
+				"orig",
+				"client/router.js.orig"
+			],
+			[
+				"moon",
+				"moonbootsConfig.js"
+			],
+			[
+				"install.sh",
+				"sublime3/install.sh"
+			],
+			[
+				"includes/",
+				"templates/includes/person.jade"
+			],
+			[
+				"main",
+				"client/views/main.js"
+			],
+			[
+				"app",
+				"client/app.js"
+			],
+			[
+				"listjade",
+				"templates/pages/users_list.jade"
+			],
+			[
+				"list",
+				"client/pages/users_list.js"
+			],
+			[
+				"view",
+				"client/pages/user_view.js"
+			],
+			[
+				"userjade",
+				"templates/includes/user.jade"
+			],
+			[
+				"users",
+				"client/pages/users-list.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"async",
+				"async"
+			],
+			[
+				"enviar",
+				"finalizarFestaEnviarEmails"
+			],
+			[
+				"finalizarFesta",
+				"finalizarFesta"
+			],
+			[
+				"",
+				"#   http://developer.android.com/guide/developing/tools/proguard.html"
+			],
+			[
+				"calcularFesta",
+				"calcularFesta"
+			],
+			[
+				"moment",
+				"moment"
+			],
+			[
+				"obterpra",
+				"obterPrato"
+			],
+			[
+				"legenda-resumo",
+				"legenda-resumo"
+			],
+			[
+				"onCrea",
+				"onCreateUser"
+			],
+			[
+				"torna",
+				"tornarUsuarioAtualAdministrador"
+			]
+		],
+		"width": 934.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

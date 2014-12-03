@@ -10,6 +10,9 @@ install:
   # install azk
   - brew install azukiapp/azk/azk
 
+  # create dns resolver
+  - sudo echo "nameserver 192.168.50.4.53" > /etc/resolver/azk.dev
+
   # start agent
   - azk agent start
 
