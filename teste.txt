@@ -1,2 +1,0 @@
-# azk agent configurehello
-world
