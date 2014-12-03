@@ -97,6 +97,7 @@ var options = mergeConfig({
         name       : envs('AZK_AGENT_VM_NAME', "azk-vm-" + namespace),
         user       : "docker",
         password   : "tcuser",
+        try_connect: envs('AZK_VM_TRY_CONNECT', 10),
         cpus       : envs('AZK_VM_CPUS', os.cpus().length),
         memory     : envs('AZK_VM_MEMORY', Math.floor(os.totalmem()/1024/1024/4)),
         ssh_key    : envs('AZK_AGENT_VM_KEY', path.join(paths.vm, "azkvm_rsa")),

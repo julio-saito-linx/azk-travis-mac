@@ -18,6 +18,7 @@ install:
 script:
   # setting default path as azk
   - export PATH=`pwd`/bin:$PATH
+  - export AZK_VM_TRY_CONNECT=40
 
   # compile azk
   - make
