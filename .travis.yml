@@ -25,8 +25,11 @@ script:
   - azk nvm grunt vm-download
 
   - azk agent start
-  # try again
-  - azk agent start
+
+  # debug virtualbox
+  - VBoxManage list hostonlyifs
+  - VBoxManage list dhcpservers
+  - VBoxManage showvminfo azk-vm-azk.dev
 
   # run all slow tests
   - azk nvm grunt slow_test
